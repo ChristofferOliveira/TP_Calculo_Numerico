@@ -1,12 +1,12 @@
 # Trabalho Prático :computer:
 ## Matéria
-- Pesquisa Operacional
+- Cálculo Numérico
 
 ## Autor
 - Christoffer de Paula Oliveira
 
 ## Objetivo
-Implementação das funções estudadas na matéria de Pesquisa Operacional. São elas:
+Implementação das funções estudadas na matéria de Cálculo Numérico. São elas:
 
 ```sh
 1- Newton
